@@ -30,6 +30,11 @@ https://github.com/tau-core-research/tau-core-theory
 
 This Paper 2 repository is a standalone reproducibility package. It does not require accepting the Tau Core theory hub; the manuscript should be read as a residual-shape inference and external-proxy audit.
 
+The later observer-specific full-4D Tau descent does not change any reported
+AUC or null test. The residual classifier remains a terminal information
+diagnostic, not a reconstruction of lapse, shift, spatial geometry, photon
+transfer, or a physical Tau metric.
+
 ## Main Files
 
 ```text
@@ -96,6 +101,13 @@ studies/sparc_residual_coherence_test_v01/paper_packet_v06_distance_balanced/ext
 ```
 
 These are derived reproducibility artifacts, not raw SPARC rotmod files.
+
+## Full-4D Score Boundary
+
+The later compiler requires the source-frozen standard excess
+`E_K = (K_HH - K_std) - C K_VV^-1 C^dagger`. Paper 2's residual-shape
+classifier does not reconstruct this object, so its AUC and permutation
+results remain unchanged diagnostic evidence.
 
 ## Reproduce
 

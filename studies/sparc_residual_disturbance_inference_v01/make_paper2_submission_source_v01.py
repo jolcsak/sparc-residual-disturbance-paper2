@@ -985,7 +985,7 @@ def tex_text() -> str:
 
 \title{Residual-shape inference and external-proxy audit of structural disturbance in SPARC rotation curves}
 \author{Jozsef Olcsak}
-\date{2026}
+\date{2026\\Last revised: 26 August 2026}
 
 \begin{document}
 \maketitle
@@ -1196,6 +1196,8 @@ This appendix-style stress table is not a full hierarchical model or a claim of 
 Allowed claim: fixed residual-shape features recover externally reviewed A/C disturbance class substantially better than chance in the current SPARC packet, the separation is concentrated in low-acceleration residual families rather than Newtonian baryonic RMS, and several external proxy readouts provide mixed but informative context.
 
 Forbidden claims: Tau Core validation, gravity-model selection, projection-formula uniqueness, replacement of external labels by residual-only labels, broad independent external validation, or THINGS route2 positive evidence.
+
+The later Tau Core full-4D descent changes neither the frozen feature map nor any AUC, permutation, or bootstrap result in this paper.  It shows only that a terminal velocity residual can in principle have body, lapse, shift, spatial-metric, photon-transfer, astrophysical, and observational contributions.  The present classifier does not reconstruct those contributions, and no nonzero radial Tau coframe may be selected from its labels or residuals.  The later exact compiler also proves that $C\neq0$ in a parent Hessian need not produce any Tau-over-standard excess: the scoreable quantity would be $E_K=(K_{HH}-K_{\rm std})-CK_{VV}^{-1}C^\dagger$.  It is not reconstructed by the residual-shape classifier.
 
 The next paper-grade step is a held-out external source-family test with $N\geq15$, a frozen evidence rule, no velocity-endpoint refit, explicit observability covariates, and predefined failure conditions. A negative Phase II result should be treated as evidence that the present association is SPARC-specific, proxy-specific, or observability-driven.
 
